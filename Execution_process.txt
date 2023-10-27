@@ -1,0 +1,15 @@
+1.Ensure you have Node.js and npm (Node Package Manager) installed:
+npm install
+
+2.Structure of the project
+
+URL_shortener/
+├── index.js       # Server-side code
+├── public/
+│   ├── index.html  # Front-end HTML
+│   ├── styles.css   # Front-end CSS
+│   └── script.js    # Front-end JavaScript
+└── package.json   # Node.js package configuration
+
+3.Run the application:
+node index.js
